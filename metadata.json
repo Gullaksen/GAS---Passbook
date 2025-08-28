@@ -1,0 +1,5 @@
+{
+  "name": "My Passbook",
+  "description": "A secure, client-side password manager that encrypts and stores your credentials locally in your browser. Features fast copy actions, a clean UI, and robust encryption using the Web Crypto API.",
+  "requestFramePermissions": []
+}
